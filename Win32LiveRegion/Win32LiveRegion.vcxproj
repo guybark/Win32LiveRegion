@@ -151,6 +151,7 @@
     <ResourceCompile Include="Win32LiveRegion.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="LR1.png" />
     <Image Include="small.ico" />
     <Image Include="Win32LiveRegion.ico" />
   </ItemGroup>

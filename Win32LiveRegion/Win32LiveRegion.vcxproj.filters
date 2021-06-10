@@ -45,5 +45,8 @@
     <Image Include="Win32LiveRegion.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="LR1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
